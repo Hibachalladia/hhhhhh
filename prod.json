@@ -1,0 +1,114 @@
+{
+    "hoodies":[
+     {
+        "id":1,
+        "title":"Superman hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodie2.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":2,
+        "title":"GameOver hoodie",
+        "prix":75,
+        "image":"assets/hoodies/hoodie1.jpg",
+        "categ":"men's hoodies"        
+     },
+     {
+        "id":3,
+        "title":"Justice League hoodie",
+        "prix":85,
+        "image":"assets/hoodies/hoodie4.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":4,
+        "title":"Wanderer travel hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodie7.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":5,
+        "title":"Simple Green  hoodie",
+        "prix":55,
+        "image":"assets/hoodies/hoodie5.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":6,
+        "title":"Tom&Jerry's Hoodie",
+        "prix":75,
+        "image":"assets/hoodies/hoodie3.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":7,
+        "title":"Friends Hoodie",
+        "prix":65,
+        "image":"assets/hoodies/pull6.jpg",
+        "categ":"men's hoodies"
+     },
+     {
+        "id":8,
+        "title":"Simple Black hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodieg8.jpg",
+        "categ":"women's hoodies"
+     },
+     {
+        "id":9,
+        "title":"Simple Grey hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodieg9.jpg",
+        "categ":"women's hoodies"
+     },
+     {
+        "id":10,
+        "title":"Simple Green Hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodieg10.jpg",
+        "categ":"women's hoodies"
+     },
+     {
+        "id":11,
+        "title":"Simple Blue hoodie",
+        "prix":65,
+        "image":"assets/hoodies/hoodieg11.jpg",
+        "categ":"women's hoodies"
+     },
+     {
+        "id":12,
+        "title":"Pink Butterfly hoodie",
+        "prix":90,
+        "image":"assets/hoodies/pull15.jpg",
+        "categ":"women's hoodies"
+     },
+     {
+        "id":13,
+        "title":"Pink sweatshirt",
+        "prix":50,
+        "image":"assets/hoodies/hoodieg8.jpg",
+        "categ":"women's sweatshirts"
+     },
+     {
+        "id":14,
+        "title":"NewYork black sweatshirt",
+        "prix":50,
+        "image":"assets/hoodies/pull13.jpg",
+        "categ":"women's sweatshirts"
+     },
+     {
+        "id":15,
+        "title":"Red Simple sweatshirt",
+        "prix":50,
+        "image":"assets/hoodies/pullg12.jpg",
+        "categ":"women's sweatshirts"
+     }
+
+
+
+
+
+    ]
+}
